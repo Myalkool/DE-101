@@ -8,3 +8,7 @@
 - **Storage Layer**: The data obtained is stored and transformed at this level, after which it is easier to use them in the analysis,
 
 - **Business Layer**: This layer analyzes and converts data into useful information for analysis;
+
+# Excel Analytic
+
+
