@@ -1,7 +1,7 @@
 # Analytical Solution Architecture
 
 ### Architecture by example of WildBerries made in draw.io
-![architecture of WB](https://raw.githubusercontent.com/Myalkool/DE-101/99a4622d622fcc703b0fd897253534336d5cc432/Module%201/WB%20Architecture.svg)
+![architecture of WB])
 
 - **Source Layer**: collects and downloads data from various sources.The data can be different: structured, semi-structured or unstructured,
 
