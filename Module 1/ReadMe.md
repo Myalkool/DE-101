@@ -10,6 +10,6 @@
 - **Business Layer**: This layer analyzes and converts data into useful information for analysis;
 
 # Excel Analytic
-![Dashboard excel]()
+![Dashboard excel](https://github.com/Myalkool/DE-101/blob/main/Module%201/Dashboard.png?raw=true)
 #### This is my dashbord based on Superstore.xls
 #### Final version of me excel file here [Superstore with Dashboard](https://github.com/Myalkool/DE-101/blob/main/Module%201/Superstore%20with%20Dashboard.xlsx) 
